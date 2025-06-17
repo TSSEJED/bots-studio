@@ -31,7 +31,7 @@ export default function RulesPage() {
           <div className="bg-gray-50 p-6 rounded-lg shadow">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">3. Stay On Topic</h2>
             <p className="text-gray-700">
-              Use channels appropriately and keep discussions relevant to each channel's purpose.
+              Use channels appropriately and keep discussions relevant to each channel{'\''}s purpose.
             </p>
           </div>
 
@@ -43,23 +43,23 @@ export default function RulesPage() {
           </div>
 
           <div className="bg-gray-50 p-6 rounded-lg shadow">
-            <h2 className="text-xl font-semibold text-gray-900 mb-4">5. Follow Discord's Terms of Service</h2>
+            <h2 className="text-xl font-semibold text-gray-900 mb-4">5. Follow Discord{'\''}s Terms of Service</h2>
             <p className="text-gray-700">
-              Any illegal activity or violation of Discord's rules is strictly forbidden.
+              Any illegal activity or violation of Discord{'\''}s rules is strictly forbidden.
             </p>
           </div>
 
           <div className="bg-gray-50 p-6 rounded-lg shadow">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">6. Protect Privacy</h2>
             <p className="text-gray-700">
-              Do not share anyone's personal or private information without consent.
+              Do not share anyone{'\''}s personal or private information without consent.
             </p>
           </div>
 
           <div className="bg-gray-50 p-6 rounded-lg shadow">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">7. Use the Designated Language</h2>
             <p className="text-gray-700">
-              Please communicate in the server's main language to ensure clear and inclusive communication.
+              Please communicate in the server{'\''}s main language to ensure clear and inclusive communication.
             </p>
           </div>
 

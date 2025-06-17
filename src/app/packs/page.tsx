@@ -9,7 +9,7 @@ export default function PacksPage() {
           Choose Your Bot Pack
         </h1>
         <p className="mt-5 max-w-xl mx-auto text-xl text-gray-500 dark:text-gray-300">
-          Select the perfect pack for your server's needs
+          Select the perfect pack for your server{'\''}s needs
         </p>
       </div>
       
