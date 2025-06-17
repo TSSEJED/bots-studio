@@ -24,16 +24,12 @@ export default function Home() {
               Boost engagement and streamline moderation with our premium Discord bot packs. Easy to install, fully customizable, and trusted by thousands of communities worldwide.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row justify-center gap-4">
-              <Link href="/packs/">
-                className="px-8 py-4 text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-colors duration-200"
-              >
-                View Packs
-              </Link>
-              <Link href="#features">
-                className="px-8 py-4 text-base font-medium rounded-md text-indigo-700 bg-indigo-100 hover:bg-indigo-200 dark:bg-indigo-900/30 dark:text-indigo-300 dark:hover:bg-indigo-800/30 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-colors duration-200"
-              >
-                Learn More
-              </Link>
+              <Link href="/packs/" className="px-8 py-4 text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-colors duration-200">
+  View Packs
+</Link>
+              <Link href="#features" className="px-8 py-4 text-base font-medium rounded-md text-indigo-700 bg-indigo-100 hover:bg-indigo-200 dark:bg-indigo-900/30 dark:text-indigo-300 dark:hover:bg-indigo-800/30 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-colors duration-200">
+  Learn More
+</Link>
             </div>
           </div>
         </div>
@@ -103,11 +99,9 @@ export default function Home() {
           <p className="mt-4 text-lg leading-6 text-indigo-200">
             Join thousands of communities already using our bot packs.
           </p>
-          <Link href="/packs/">
-            className="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-indigo-50 sm:w-auto"
-          >
-            Get Started
-          </Link>
+          <Link href="/packs/" className="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-indigo-50 sm:w-auto">
+  Get Started
+</Link>
         </div>
       </div>
     </div>
