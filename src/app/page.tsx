@@ -25,11 +25,11 @@ export default function Home() {
             </p>
             <div className="mt-10 flex flex-col sm:flex-row justify-center gap-4">
               <Link href="/packs/" className="px-8 py-4 text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-colors duration-200">
-  View Packs
-</Link>
+                View Packs
+              </Link>
               <Link href="#features" className="px-8 py-4 text-base font-medium rounded-md text-indigo-700 bg-indigo-100 hover:bg-indigo-200 dark:bg-indigo-900/30 dark:text-indigo-300 dark:hover:bg-indigo-800/30 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-colors duration-200">
-  Learn More
-</Link>
+                Learn More
+              </Link>
             </div>
           </div>
         </div>
