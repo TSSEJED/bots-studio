@@ -22,7 +22,7 @@ function getPackGradient(id: string) {
   }
 }
 
-export default function PackDetailPage({ params }: { params: { id: string } }) {
+export default async function PackDetailPage({ params }: { params: { id: string } }) {
   const pack = botPacks.find((p) => p.id === params.id);
   if (!pack) return notFound();
 
